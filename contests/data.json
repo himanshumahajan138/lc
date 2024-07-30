@@ -2,13 +2,13 @@
     "data": [
         {
             "contest_name": "https://leetcode.com/contest/Weekly-Contest-407",
-            "question_3": "https://himanshumahajan138.github.io/lc/plag_report/W407/Q3_Final_Result.json",
-            "question_4": "https://himanshumahajan138.github.io/lc/plag_report/W407/Q4_Final_Result.json"
+            "question_3": "plag_report/W407/Q3_Final_Result.json",
+            "question_4": "plag_report/W407/Q4_Final_Result.json"
         },
         {
             "contest_name": "https://leetcode.com/contest/Weekly-Contest-408",
-            "question_3": "https://himanshumahajan138.github.io/lc/plag_report/W408/Q3_Final_Result.json",
-            "question_4": "https://himanshumahajan138.github.io/lc/plag_report/W408/Q4_Final_Result.json"
+            "question_3": "plag_report/W408/Q3_Final_Result.json",
+            "question_4": "plag_report/W408/Q4_Final_Result.json"
         }
     ]
 }
