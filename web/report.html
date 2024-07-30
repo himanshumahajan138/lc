@@ -47,9 +47,8 @@
             return urlParams.get(name);
         }
 
-        const query = getQueryParameter('query');
+        const query = getQueryParameter('q');
         const decodedQuery = decodeURIComponent(query);
-        console.log(decodedQuery)
         const fetchUrl = `https://himanshumahajan138.github.io/lc/${decodedQuery}`;
 
 
