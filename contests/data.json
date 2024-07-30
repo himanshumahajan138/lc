@@ -2,11 +2,13 @@
     "data": [
         {
             "contest_name": "https://leetcode.com/contest/Weekly-Contest-407",
+            "contest_date": "July 21, 2024, 08:00 AM",
             "question_3": "plag_report/W407/Q3_Final_Result.json",
             "question_4": "plag_report/W407/Q4_Final_Result.json"
         },
         {
             "contest_name": "https://leetcode.com/contest/Weekly-Contest-408",
+            "contest_date": "July 28, 2024, 08:00 AM",
             "question_3": "plag_report/W408/Q3_Final_Result.json",
             "question_4": "plag_report/W408/Q4_Final_Result.json"
         }
