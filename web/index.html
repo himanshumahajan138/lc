@@ -38,8 +38,8 @@
         const grid = new gridjs.Grid({
             columns: [
                 { id: "contest_name", name: "Contest Name", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell.split('/').pop()}</a>`) },
-                { id: "question_3", name: "Question 3", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">LINK</a>`) },
-                { id: "question_4", name: "Question 4", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">LINK</a>`) },
+                { id: "question_3", name: "Question 3", formatter: (cell) => gridjs.html(`<a href="https://himanshumahajan138.github.io/lc/web/report?q=${encodeURIComponent(cell)}" target="_blank">LINK</a>`) },
+                { id: "question_4", name: "Question 4", formatter: (cell) => gridjs.html(`<a href="https://himanshumahajan138.github.io/lc/web/report?q=${encodeURIComponent(cell)}" target="_blank">LINK</a>`) },
             ],
             fixedHeader: true,
             sort: {
