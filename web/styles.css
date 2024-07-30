@@ -6,14 +6,56 @@ body {
 }
 
 .centered {
+    width: 100%;
     text-align: center;
+    margin: 0;
 }
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    /* Change to 'column' for vertical layout */
+    justify-content:space-between;
+    /* Change to 'center', 'space-between', etc. */
+}
+
+
+
+
+
+.note-heading {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: red;
+}
+
+.note-point {
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding-left: 1%;
+
+}
+
+.emphasis {
+    color: red;
+    font-weight: bold;
+}
+
+
+.default {
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+}
+
 
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 1%;
 }
 
 
@@ -94,6 +136,23 @@ a:hover {
     padding: 0
 }
 
+.box-look {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: #fff;
+    border: 1px solid #d2d6dc;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 1.45;
+    outline: none;
+    padding: 10px 13px
+}
+
+.box-look:hover {
+    border-color: #9bc2f7;
+    box-shadow: 0 0 0 3px rgba(149, 189, 243, .5)
+}
 
 button.gridjs-button {
     -webkit-appearance: none;
