@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeetCode Plagiarism</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="flexbox">
+        <div style="float: left;">
+            <button type="button" class="gridjs-button" onClick="location.reload()">Home</button>
+        </div>
+
+    </div>
+    <div class="container">
+        <h1 class="centered">LeetCode Plagiarism Checker</h1>
+        <h2 class="centered">LeetCode Contests List </h2>
+    </div>
+    <div role="complementary" class="gridjs gridjs-container" style="width: 100%;">
+        <div class="gridjs-head">
+            <div class="gridjs-search table-search">
+                <input type="search" id="searchInput" placeholder="🔍 Search..." aria-label="🔍 Search..."
+                    class="gridjs-input gridjs-search-input">
+            </div>
+        </div>
+
+    </div>
+    <div id="table"></div>
+
+    <script src="script.js"></script>
+
+    <script>
+        var griddata;
+
+        const grid = new gridjs.Grid({
+            columns: [
+                { id: "contest_name", name: "Contest Name", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell.split('/').pop()}</a>`) },
+                { id: "question_3", name: "Question 3", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">LINK</a>`) },
+                { id: "question_4", name: "Question 4", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">LINK</a>`) },
+            ],
+            fixedHeader: true,
+            sort: {
+                multiColumn: true
+            },
+            height: '100%',
+            resizable: true,
+            data: async () => {
+                try {
+                    const response = await fetch('https://himanshumahajan138.github.io/lc/contests/data.json');
+                    griddata = await response.json();
+                    return griddata.data;
+                } catch (error) {
+                    console.error('Error fetching data:', error);
+                    return [];
+                }
+            },
+            pagination: {
+                enabled: true,
+                limit: 25,
+                summary: true
+            },
+            className: {
+                table: "table-table table-body",
+                tr: "table-tr",
+                td: "table-td",
+                th: "table-th",
+                search: "table-search",
+                sort: "table-sort",
+                pagination: "table-pagination",
+                paginationButton: "table-pagination-button",
+                paginationButtonNext: "table-pagination-next",
+                paginationButtonCurrent: "table-pagination-current",
+                paginationButtonPrev: "table-pagination-previous",
+                loading: "table-loading",
+            },
+            language: {
+                'pagination': {
+                    'previous': '<',
+                    'next': '>',
+                    'showing': '😃 Displaying',
+                    'results': () => 'Records',
+                    'page': 'Page',
+                    'of': 'of'
+                }
+            }
+        }).render(document.getElementById("table"));
+
+        function filterSearch() {
+            const searchValue = document.getElementById('searchInput').value.toLowerCase();
+
+            if (!searchValue) {
+                grid.updateConfig({ data: griddata.data }).forceRender();
+                return;
+            }
+            const filteredData = griddata.data.filter(row => {
+                const values = Object.values(row).map(value => value.toString().toLowerCase());
+                return values.some(value => value.includes(searchValue));
+            });
+            grid.updateConfig({ data: filteredData }).forceRender();
+        }
+
+        window.onload = function () {
+            document.getElementById('searchInput').addEventListener('input', filterSearch);
+        };
+    </script>
+
+</body>
+
+</html>
