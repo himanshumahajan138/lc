@@ -11,7 +11,7 @@
 <body>
   <div class="flexbox">
     <div style="float: left;">
-      <button type="button" class="gridjs-button" onClick="location.reload()">Home</button>
+      <button type="button" class="gridjs-button" onClick="location.replace('https://himanshumahajan138.github.io/lc/web')">Home</button>
     </div>
     <div style="float: right;">
       <button type="button" class="gridjs-button" onClick="exportGrid()">Export CSV</button>
@@ -19,7 +19,7 @@
   </div>
   <div class="container">
     <h1 class="centered">LeetCode Plagiarism Report</h1>
-    <p class="centered">LeetCode Weekly Contest 408</p>
+    <h3 class="centered" id="contest-name"></h3>
   </div><br>
   <div role="complementary" class="gridjs gridjs-container" style="width: 100%;">
     <div class="gridjs-head">
@@ -50,6 +50,11 @@
         const query = getQueryParameter('q');
         const decodedQuery = decodeURIComponent(query);
         const fetchUrl = `https://himanshumahajan138.github.io/lc/${decodedQuery}`;
+
+        const query2= getQueryParameter('cn');
+        const decodedQuery2 = decodeURIComponent(query2);
+        document.getElementById('contest-name').textContent="LeetCode "+ decodedQuery2.replace(/-/g," ")
+
 
 
     const grid = new gridjs.Grid({
