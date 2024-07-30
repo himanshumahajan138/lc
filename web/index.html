@@ -9,15 +9,18 @@
 </head>
 
 <body>
-    <div class="flexbox">
+    <div class="flex-container">
         <div style="float: left;">
-            <button type="button" class="gridjs-button" onClick="location.reload()">Home</button>
+            <button type="button" class="gridjs-button"
+                onClick="location.replace('https://himanshumahajan138.github.io/lc/web')">Home</button>
         </div>
-
     </div>
-    <div class="container">
-        <h1 class="centered">LeetCode Plagiarism Checker</h1>
-        <h3 class="centered">LeetCode Contests List </h3>
+    <div></div>
+
+    <div class="container box-look">
+        <h1 class="centered">🤞LeetCode <span class="emphasis">Plagiarism</span> Checker👀</h1>
+        <br>
+        <h2 class="centered">LeetCode Contest Lists</h2>
     </div>
     <div role="complementary" class="gridjs gridjs-container" style="width: 100%;">
         <div class="gridjs-head">
@@ -29,45 +32,68 @@
 
     </div>
     <div id="table"></div>
+    <br>
+    <br>
 
+    <footer class="box-look">
+        <div class="flex-container" style="justify-content:center;">
+            <div style=" margin-right: 1%; text-align: right;width: 100%;">
+                <a href="https://himanshumahajan138.github.io/lc/web" target="_blank"><b>LeetCode Plagiarism
+                        Checker</b></a><br>
+                <a href="https://himanshumahajan138.github.io/" target="_blank"><b> Made With ❤️ By Himanshu
+                        Mahajan</b></a><br>
+                <a><b>Don't Let Cheaters Go Above You !!!</b></a><br>
+            </div>
+            <div>
+                <a><b>|</b></a><br>
+                <a><b>|</b></a><br>
+                <a><b>|</b></a><br>
+            </div>
+            <div style="margin-left: 1%; width: 100%;">
+                <a href="https://himanshumahajan138.github.io/" target="_blank"><b>Visit My Portfolio</b></a><br>
+                <a href="https://www.linkedin.com/in/himanshu138/" target="_blank"><b>Linkedin</b></a><br>
+                <a href="https://github.com/himanshumahajan138" target="_blank"><b>Github</b></a>
+            </div>
+        </div>
+    </footer>
     <script src="script.js"></script>
 
     <script>
         var griddata;
-        const link_path="https://himanshumahajan138.github.io/lc/web/report"
-    
+        const link_path = "https://himanshumahajan138.github.io/lc/web/report"
+
         const grid = new gridjs.Grid({
             columns: [
-                { 
-                    id: "contest_name", 
-                    name: "Contest Name", 
+                {
+                    id: "contest_name",
+                    name: "Contest Name",
                     formatter: (cell) => {
                         const contestName = cell.split('/').pop();
-                        return gridjs.html(`<a href="${cell}" target="_blank">${contestName.replace(/-/g," ")}</a>`);
-                    } 
+                        return gridjs.html(`<a href="${cell}" target="_blank">${contestName.replace(/-/g, " ")}</a>`);
+                    }
                 },
-                { 
-                    id: "contest_date", 
-                    name: "Contest Start Date", 
+                {
+                    id: "contest_date",
+                    name: "Contest Start Date",
                     formatter: (cell) => {
                         return cell;
-                    } 
+                    }
                 },
-                { 
-                    id: "question_3", 
-                    name: "Question 3", 
+                {
+                    id: "question_3",
+                    name: "Question 3",
                     formatter: (cell, row) => {
                         const contestName = row.cells[0].data.split('/').pop();
                         return gridjs.html(`<a href="${link_path}?q=${encodeURIComponent(cell)}&cn=${encodeURIComponent(contestName)}-Question-3" target="_blank">LINK</a>`);
-                    } 
+                    }
                 },
-                { 
-                    id: "question_4", 
-                    name: "Question 4", 
+                {
+                    id: "question_4",
+                    name: "Question 4",
                     formatter: (cell, row) => {
                         const contestName = row.cells[0].data.split('/').pop();
                         return gridjs.html(`<a href="${link_path}?q=${encodeURIComponent(cell)}&cn=${encodeURIComponent(contestName)}-Question-4" target="_blank">LINK</a>`);
-                    } 
+                    }
                 },
             ],
             fixedHeader: true,
@@ -122,10 +148,10 @@
                 }
             }
         }).render(document.getElementById("table"));
-    
+
         function filterSearch() {
             const searchValue = document.getElementById('searchInput').value.toLowerCase();
-    
+
             if (!searchValue) {
                 grid.updateConfig({ data: griddata.data }).forceRender();
                 return;
@@ -136,12 +162,12 @@
             });
             grid.updateConfig({ data: filteredData }).forceRender();
         }
-    
+
         window.onload = function () {
             document.getElementById('searchInput').addEventListener('input', filterSearch);
         };
     </script>
-    
+
 
 </body>
 
