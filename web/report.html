@@ -6,36 +6,84 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>LeetCode Plagiarism Report</title>
   <link href="styles.css" rel="stylesheet" />
+
 </head>
 
 <body>
-  <div class="flexbox">
+  <div class="flex-container">
     <div style="float: left;">
-      <button type="button" class="gridjs-button" onClick="location.replace('https://himanshumahajan138.github.io/lc/web')">Home</button>
+      <button type="button" class="gridjs-button"
+        onClick="location.replace('https://himanshumahajan138.github.io/lc/web')">Home</button>
     </div>
     <div style="float: right;">
       <button type="button" class="gridjs-button" onClick="exportGrid()">Export CSV</button>
     </div>
   </div>
-  <div class="container">
-    <h1 class="centered">LeetCode Plagiarism Report</h1>
-    <h3 class="centered" id="contest-name"></h3>
-  </div><br>
+
+  <div class="container box-look">
+    <h1 class="centered">🤞LeetCode <span class="emphasis">Plagiarism</span> Report👀</h1><br>
+    <h2 class="centered" id="contest-name"></h2>
+  </div>
+
+
+
+  <div class="box-look">
+    <div class="note-heading">
+      Note:
+    </div>
+
+    <div class="note-point">
+      <b>●</b> <span class="emphasis">Cheater 1</span> is definitively classified as a <span
+        class="emphasis">Cheater</span>, while <span class="emphasis">Cheater 2</span> may not always fall into this
+      category.
+    </div>
+
+    <div class="note-point">
+      <b>●</b> You can set the <span class="emphasis">threshold value</span> according to your preference, with the
+      <span class="default">default value</span> being <b>80</b>.
+    </div>
+
+    <div class="note-point">
+      <b>●</b> Perform <span class="emphasis">search, sorting</span> based on your specific preferences.
+    </div>
+  </div>
   <div role="complementary" class="gridjs gridjs-container" style="width: 100%;">
     <div class="gridjs-head">
       <div class="gridjs-search table-search" style="float: left;">
         <label for="threshold" id="threshold-label">Similarity Threshold (%):</label>
-        <input class="gridjs-input gridjs-search-input" id="threshold" type="number" name="threshold" min="50" max="100" value="80" style="width: 17%;">
+        <input class="gridjs-input gridjs-search-input" id="threshold" type="number" name="threshold" min="50" max="100"
+          value="80" style="width: 17%;">
         <button type="button" class="gridjs-button" onClick="filterThreshold()">Apply Threshold</button>
       </div>
-      <div class="gridjs-search table-search" >
-        <input type="search" id="searchInput" placeholder="🔍 Search..." aria-label="🔍 Search..." class="gridjs-input gridjs-search-input">
+      <div class="gridjs-search table-search">
+        <input type="search" id="searchInput" placeholder="🔍 Search..." aria-label="🔍 Search..."
+          class="gridjs-input gridjs-search-input">
       </div>
     </div>
 
   </div>
   <div id="table"></div>
-
+</br>
+</br>
+  <footer class="box-look">
+    <div class="flex-container" style="justify-content:center;">
+        <div style=" margin-right: 1%; text-align: right; width: 100%;">
+          <a href="https://himanshumahajan138.github.io/lc/web" target="_blank"><b>LeetCode Plagiarism Checker</b></a><br >
+          <a href="https://himanshumahajan138.github.io/" target="_blank"><b> Made With ❤️ By Himanshu Mahajan</b></a><br>
+          <a ><b>Don't Let Cheaters Go Above You !!!</b></a><br>
+        </div>
+        <div>
+          <a><b>|</b></a><br>
+          <a><b>|</b></a><br>
+          <a><b>|</b></a><br>
+        </div>
+        <div style="margin-left: 1%; width: 100%;">
+          <a href="https://himanshumahajan138.github.io/" target="_blank"><b>Visit My Portfolio</b></a><br>
+          <a href="https://www.linkedin.com/in/himanshu138/" target="_blank"><b>Linkedin</b></a><br>
+          <a href="https://github.com/himanshumahajan138" target="_blank"><b>Github</b></a>
+        </div>
+    </div>
+  </footer>
   <script src="script.js"></script>
 
   <script>
@@ -43,17 +91,17 @@
     const defaultThreshold = 80; // Default threshold value
 
     function getQueryParameter(name) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(name);
-        }
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name);
+    }
 
-        const query = getQueryParameter('q');
-        const decodedQuery = decodeURIComponent(query);
-        const fetchUrl = `https://himanshumahajan138.github.io/lc/${decodedQuery}`;
+    const query = getQueryParameter('q');
+    const decodedQuery = decodeURIComponent(query);
+    const fetchUrl = `https://himanshumahajan138.github.io/lc/${decodedQuery}`;
 
-        const query2= getQueryParameter('cn');
-        const decodedQuery2 = decodeURIComponent(query2);
-        document.getElementById('contest-name').textContent="LeetCode "+ decodedQuery2.replace(/-/g," ")
+    const query2 = getQueryParameter('cn');
+    const decodedQuery2 = decodeURIComponent(query2);
+    document.getElementById('contest-name').textContent = "LeetCode " + decodedQuery2.replace(/-/g, " ")
 
 
 
@@ -150,13 +198,13 @@
 
     function filterSearch() {
       const searchValue = document.getElementById('searchInput').value.toLowerCase();
-      
+
       if (!searchValue) {
         grid.updateConfig({ data: griddata.data }).forceRender();
         filterThreshold()
         return;
       }
-      
+
       const filteredData = griddata.data.filter(row => {
         const values = Object.values(row).map(value => value.toString().toLowerCase());
         return values.some(value => value.includes(searchValue));
@@ -165,7 +213,7 @@
       grid.updateConfig({ data: filteredData }).forceRender();
     }
 
-    window.onload = function() {
+    window.onload = function () {
       document.getElementById('searchInput').addEventListener('input', filterSearch);
     };
   </script>
