@@ -88,7 +88,9 @@
       </div>
     </div>
   </footer>
-  <p style="text-align: center;">If You Want Plagiarism Script or any Query Regarding Report: Drop a Message at <a onclick="window.open('https://www.linkedin.com/in/himanshu138', '_blank').focus();" target="_blank">Himanshu Mahajan</a></p>
+  <p style="text-align: center;">If You Want Plagiarism Script or any Query Regarding Report: Drop a Message at <a
+      onclick="window.open('https://www.linkedin.com/in/himanshu138', '_blank').focus();" target="_blank">Himanshu
+      Mahajan</a></p>
 
   <script src="script.js"></script>
 
@@ -109,17 +111,15 @@
     const decodedQuery2 = decodeURIComponent(query2);
     document.getElementById('contest-name').textContent = "LeetCode " + decodedQuery2.replace(/-/g, " ")
 
-
-
     const grid = new gridjs.Grid({
       columns: [
+        { id: "similarity_percentage", name: "Similarity (%)", formatter: (cell) => parseInt(cell), sort: { compare: (a, b) => parseInt(a) - parseInt(b) } },
         { id: "cheater1_rank", name: "Cheater 1 Rank", formatter: (cell) => parseInt(cell), sort: { compare: (a, b) => parseInt(a) - parseInt(b) } },
         { id: "cheater1_username", name: "Cheater 1 Username", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell.split('/').pop()}</a>`) },
         { id: "cheater1_submission_id", name: "Cheater 1 Submission ID", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell.split('/').pop()}</a>`) },
         { id: "cheater2_rank", name: "Cheater 2 Rank", formatter: (cell) => parseInt(cell), sort: { compare: (a, b) => parseInt(a) - parseInt(b) } },
         { id: "cheater2_username", name: "Cheater 2 Username", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell.split('/').pop()}</a>`) },
         { id: "cheater2_submission_id", name: "Cheater 2 Submission ID", formatter: (cell) => gridjs.html(`<a href="${cell}" target="_blank">${cell.split('/').pop()}</a>`) },
-        { id: "similarity_percentage", name: "Similarity (%)", formatter: (cell) => parseInt(cell), sort: { compare: (a, b) => parseInt(a) - parseInt(b) } },
       ],
       fixedHeader: true,
       sort: {
@@ -131,7 +131,8 @@
         try {
           const response = await fetch(fetchUrl);
           griddata = await response.json();
-          filterThreshold()
+          sortDataBySimilarityPercentage(griddata.data); // Sort the data
+          filterThreshold();
           return griddata.data;
         } catch (error) {
           console.error('Error fetching data:', error);
@@ -207,7 +208,7 @@
 
       if (!searchValue) {
         grid.updateConfig({ data: griddata.data }).forceRender();
-        filterThreshold()
+        filterThreshold();
         return;
       }
 
@@ -215,14 +216,19 @@
         const values = Object.values(row).map(value => value.toString().toLowerCase());
         return values.some(value => value.includes(searchValue));
       });
-      filterThreshold()
       grid.updateConfig({ data: filteredData }).forceRender();
+      filterThreshold();
+    }
+
+    function sortDataBySimilarityPercentage(data) {
+      data.sort((a, b) => parseInt(b.similarity_percentage) - parseInt(a.similarity_percentage));
     }
 
     window.onload = function () {
       document.getElementById('searchInput').addEventListener('input', filterSearch);
     };
   </script>
+
 
 </body>
 
