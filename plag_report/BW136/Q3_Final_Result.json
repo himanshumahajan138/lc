@@ -1,0 +1,1309 @@
+{
+    "data": [
+        {
+            "cheater1_rank": "301",
+            "cheater1_username": "https://leetcode.com/u/kaname_asuka",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343143743",
+            "cheater2_rank": "66",
+            "cheater2_username": "https://leetcode.com/u/g129512",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343170208",
+            "similarity_percentage": "64"
+        },
+        {
+            "cheater1_rank": "571",
+            "cheater1_username": "https://leetcode.com/u/NinjaSatish",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343122189",
+            "cheater2_rank": "62",
+            "cheater2_username": "https://leetcode.com/u/harryB17",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343110678",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "1008",
+            "cheater1_username": "https://leetcode.com/u/bd535853",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343158801",
+            "cheater2_rank": "166",
+            "cheater2_username": "https://leetcode.com/u/tanakat01",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343106685",
+            "similarity_percentage": "72"
+        },
+        {
+            "cheater1_rank": "1017",
+            "cheater1_username": "https://leetcode.com/u/riosshin24",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343169722",
+            "cheater2_rank": "177",
+            "cheater2_username": "https://leetcode.com/u/wanghy012",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343127906",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "1036",
+            "cheater1_username": "https://leetcode.com/u/plushone",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343190456",
+            "cheater2_rank": "131",
+            "cheater2_username": "https://leetcode.com/u/john0312acc223",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343121901",
+            "similarity_percentage": "74"
+        },
+        {
+            "cheater1_rank": "1044",
+            "cheater1_username": "https://leetcode.com/u/jerry5841314",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343190909",
+            "cheater2_rank": "116",
+            "cheater2_username": "https://leetcode.com/u/nikhil__thogaru",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343145667",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "1046",
+            "cheater1_username": "https://leetcode.com/u/HYWong",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343190978",
+            "cheater2_rank": "125",
+            "cheater2_username": "https://leetcode.com/u/jangar",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343106040",
+            "similarity_percentage": "68"
+        },
+        {
+            "cheater1_rank": "1060",
+            "cheater1_username": "https://leetcode.com/u/RamVijayYadav",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343182609",
+            "cheater2_rank": "131",
+            "cheater2_username": "https://leetcode.com/u/john0312acc223",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343121901",
+            "similarity_percentage": "70"
+        },
+        {
+            "cheater1_rank": "1062",
+            "cheater1_username": "https://leetcode.com/u/Khkazz",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343173086",
+            "cheater2_rank": "108",
+            "cheater2_username": "https://leetcode.com/u/iamc7054",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343108449",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "1066",
+            "cheater1_username": "https://leetcode.com/u/MjMPYFbpxj",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343173361",
+            "cheater2_rank": "188",
+            "cheater2_username": "https://leetcode.com/u/salyu",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343124388",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "1068",
+            "cheater1_username": "https://leetcode.com/u/Shruthik_Ravula",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343163584",
+            "cheater2_rank": "170",
+            "cheater2_username": "https://leetcode.com/u/abhishekvaish",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343146208",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "1070",
+            "cheater1_username": "https://leetcode.com/u/suyash21__",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343173682",
+            "cheater2_rank": "119",
+            "cheater2_username": "https://leetcode.com/u/__Beginner_",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343170481",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "1078",
+            "cheater1_username": "https://leetcode.com/u/vijay_15",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343183772",
+            "cheater2_rank": "131",
+            "cheater2_username": "https://leetcode.com/u/john0312acc223",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343121901",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "1121",
+            "cheater1_username": "https://leetcode.com/u/zNuke",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343186438",
+            "cheater2_rank": "862",
+            "cheater2_username": "https://leetcode.com/u/acebenson0704",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343147794",
+            "similarity_percentage": "65"
+        },
+        {
+            "cheater1_rank": "1172",
+            "cheater1_username": "https://leetcode.com/u/one_of_billions",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343199982",
+            "cheater2_rank": "629",
+            "cheater2_username": "https://leetcode.com/u/Mahf_",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343135119",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "1176",
+            "cheater1_username": "https://leetcode.com/u/Vineet_RaoSahab",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343200306",
+            "cheater2_rank": "159",
+            "cheater2_username": "https://leetcode.com/u/CAEL0",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343111156",
+            "similarity_percentage": "57"
+        },
+        {
+            "cheater1_rank": "1190",
+            "cheater1_username": "https://leetcode.com/u/sIKzrqhaOp",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343201361",
+            "cheater2_rank": "131",
+            "cheater2_username": "https://leetcode.com/u/john0312acc223",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343121901",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "1203",
+            "cheater1_username": "https://leetcode.com/u/Dstray",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343202201",
+            "cheater2_rank": "560",
+            "cheater2_username": "https://leetcode.com/u/ho_chung",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343131295",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "1222",
+            "cheater1_username": "https://leetcode.com/u/pranav_todkar",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343194838",
+            "cheater2_rank": "151",
+            "cheater2_username": "https://leetcode.com/u/Shivam__07",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343147072",
+            "similarity_percentage": "64"
+        },
+        {
+            "cheater1_rank": "1234",
+            "cheater1_username": "https://leetcode.com/u/Vikash__Rajput",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343195829",
+            "cheater2_rank": "149",
+            "cheater2_username": "https://leetcode.com/u/smalukav",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343150042",
+            "similarity_percentage": "66"
+        },
+        {
+            "cheater1_rank": "1241",
+            "cheater1_username": "https://leetcode.com/u/henrychienhy",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343186763",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "1244",
+            "cheater1_username": "https://leetcode.com/u/krishankant_nsut",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343177196",
+            "cheater2_rank": "191",
+            "cheater2_username": "https://leetcode.com/u/moojkoo",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343160971",
+            "similarity_percentage": "69"
+        },
+        {
+            "cheater1_rank": "1246",
+            "cheater1_username": "https://leetcode.com/u/naresh50",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343205425",
+            "cheater2_rank": "858",
+            "cheater2_username": "https://leetcode.com/u/RockStar_14",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343178440",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "1249",
+            "cheater1_username": "https://leetcode.com/u/m-Just",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343205495",
+            "cheater2_rank": "551",
+            "cheater2_username": "https://leetcode.com/u/phungthienphuoc",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343129821",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "1250",
+            "cheater1_username": "https://leetcode.com/u/nguyenddong90",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343196415",
+            "cheater2_rank": "672",
+            "cheater2_username": "https://leetcode.com/u/sysu17364057",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151086",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "1262",
+            "cheater1_username": "https://leetcode.com/u/Zebul",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343185460",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "1268",
+            "cheater1_username": "https://leetcode.com/u/adityaozha067",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343197415",
+            "cheater2_rank": "143",
+            "cheater2_username": "https://leetcode.com/u/a0920732333",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343145234",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "1274",
+            "cheater1_username": "https://leetcode.com/u/vineethr_2004",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343206847",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "65"
+        },
+        {
+            "cheater1_rank": "1276",
+            "cheater1_username": "https://leetcode.com/u/abtimes2",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343197849",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "69"
+        },
+        {
+            "cheater1_rank": "1282",
+            "cheater1_username": "https://leetcode.com/u/smrnMKN",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343188588",
+            "cheater2_rank": "352",
+            "cheater2_username": "https://leetcode.com/u/eatfood",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343135365",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "1284",
+            "cheater1_username": "https://leetcode.com/u/dkp123325",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343188711",
+            "cheater2_rank": "149",
+            "cheater2_username": "https://leetcode.com/u/smalukav",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343150042",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "1316",
+            "cheater1_username": "https://leetcode.com/u/dhairyaseth",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343208749",
+            "cheater2_rank": "528",
+            "cheater2_username": "https://leetcode.com/u/SaveVMK",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343122565",
+            "similarity_percentage": "52"
+        },
+        {
+            "cheater1_rank": "1325",
+            "cheater1_username": "https://leetcode.com/u/s_mtLC",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343181109",
+            "cheater2_rank": "159",
+            "cheater2_username": "https://leetcode.com/u/CAEL0",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343111156",
+            "similarity_percentage": "63"
+        },
+        {
+            "cheater1_rank": "1382",
+            "cheater1_username": "https://leetcode.com/u/Dk95_letsgo",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343183839",
+            "cheater2_rank": "177",
+            "cheater2_username": "https://leetcode.com/u/wanghy012",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343127906",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "1436",
+            "cheater1_username": "https://leetcode.com/u/death__stroke",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343213802",
+            "cheater2_rank": "204",
+            "cheater2_username": "https://leetcode.com/u/fpeterfalvi",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343111670",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "1469",
+            "cheater1_username": "https://leetcode.com/u/conan45",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343187146",
+            "cheater2_rank": "161",
+            "cheater2_username": "https://leetcode.com/u/NirbhayPaliwal",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151973",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "1482",
+            "cheater1_username": "https://leetcode.com/u/zinchse",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343196971",
+            "cheater2_rank": "960",
+            "cheater2_username": "https://leetcode.com/u/cskrisz",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343175445",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "1486",
+            "cheater1_username": "https://leetcode.com/u/vivekkr83",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343187654",
+            "cheater2_rank": "151",
+            "cheater2_username": "https://leetcode.com/u/Shivam__07",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343147072",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "1506",
+            "cheater1_username": "https://leetcode.com/u/nicoleli20149",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343188354",
+            "cheater2_rank": "166",
+            "cheater2_username": "https://leetcode.com/u/tanakat01",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343106685",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "1522",
+            "cheater1_username": "https://leetcode.com/u/Najmiddin1",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343198515",
+            "cheater2_rank": "672",
+            "cheater2_username": "https://leetcode.com/u/sysu17364057",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151086",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "1547",
+            "cheater1_username": "https://leetcode.com/u/hth4nh",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343208323",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "52"
+        },
+        {
+            "cheater1_rank": "1556",
+            "cheater1_username": "https://leetcode.com/u/Precizne",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343190322",
+            "cheater2_rank": "161",
+            "cheater2_username": "https://leetcode.com/u/NirbhayPaliwal",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151973",
+            "similarity_percentage": "69"
+        },
+        {
+            "cheater1_rank": "1575",
+            "cheater1_username": "https://leetcode.com/u/cassowary1",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343200272",
+            "cheater2_rank": "161",
+            "cheater2_username": "https://leetcode.com/u/NirbhayPaliwal",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151973",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "1604",
+            "cheater1_username": "https://leetcode.com/u/BeeMaxi",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343201135",
+            "cheater2_rank": "188",
+            "cheater2_username": "https://leetcode.com/u/salyu",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343124388",
+            "similarity_percentage": "57"
+        },
+        {
+            "cheater1_rank": "1659",
+            "cheater1_username": "https://leetcode.com/u/SirHiss",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343193764",
+            "cheater2_rank": "551",
+            "cheater2_username": "https://leetcode.com/u/phungthienphuoc",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343129821",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "1665",
+            "cheater1_username": "https://leetcode.com/u/akbc",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343203104",
+            "cheater2_rank": "560",
+            "cheater2_username": "https://leetcode.com/u/ho_chung",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343131295",
+            "similarity_percentage": "57"
+        },
+        {
+            "cheater1_rank": "1695",
+            "cheater1_username": "https://leetcode.com/u/DakshSahani",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343185535",
+            "cheater2_rank": "301",
+            "cheater2_username": "https://leetcode.com/u/kaname_asuka",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343143743",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "1716",
+            "cheater1_username": "https://leetcode.com/u/JimmyChiu702",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343222904",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "1752",
+            "cheater1_username": "https://leetcode.com/u/hc167",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343205385",
+            "cheater2_rank": "184",
+            "cheater2_username": "https://leetcode.com/u/Harshit_J12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136119",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "1896",
+            "cheater1_username": "https://leetcode.com/u/szy0",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343218548",
+            "cheater2_rank": "838",
+            "cheater2_username": "https://leetcode.com/u/YEH_CHIA_KAI",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343166846",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "1903",
+            "cheater1_username": "https://leetcode.com/u/SpartanCode-117",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343209575",
+            "cheater2_rank": "193",
+            "cheater2_username": "https://leetcode.com/u/mkliac",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343218055",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "2098",
+            "cheater1_username": "https://leetcode.com/u/himanshuvaran",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343205559",
+            "cheater2_rank": "727",
+            "cheater2_username": "https://leetcode.com/u/anonys",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343167344",
+            "similarity_percentage": "62"
+        },
+        {
+            "cheater1_rank": "2107",
+            "cheater1_username": "https://leetcode.com/u/tlecodes",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343224030",
+            "cheater2_rank": "2102",
+            "cheater2_username": "https://leetcode.com/u/anandjha123",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343232808",
+            "similarity_percentage": "78"
+        },
+        {
+            "cheater1_rank": "2171",
+            "cheater1_username": "https://leetcode.com/u/tamyte",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343179378",
+            "cheater2_rank": "21",
+            "cheater2_username": "https://leetcode.com/u/BaoJiaoPisu",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343105797",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "2253",
+            "cheater1_username": "https://leetcode.com/u/saksham_k",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343237208",
+            "cheater2_rank": "278",
+            "cheater2_username": "https://leetcode.com/u/Atma_",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343132733",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "2256",
+            "cheater1_username": "https://leetcode.com/u/balajigovindmalali",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343228285",
+            "cheater2_rank": "590",
+            "cheater2_username": "https://leetcode.com/u/Pranav_Sharda",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343148184",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "2285",
+            "cheater1_username": "https://leetcode.com/u/MrSup1998",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343238000",
+            "cheater2_rank": "232",
+            "cheater2_username": "https://leetcode.com/u/grundy_number",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343134956",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "2312",
+            "cheater1_username": "https://leetcode.com/u/SapGhosh",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343229548",
+            "cheater2_rank": "259",
+            "cheater2_username": "https://leetcode.com/u/__keep_it_simple__",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343131622",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "2329",
+            "cheater1_username": "https://leetcode.com/u/anshulusr",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343230118",
+            "cheater2_rank": "915",
+            "cheater2_username": "https://leetcode.com/u/user7604rV",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343172378",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "2426",
+            "cheater1_username": "https://leetcode.com/u/piyushgr24",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343205884",
+            "cheater2_rank": "276",
+            "cheater2_username": "https://leetcode.com/u/Mayawan",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343144433",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "2436",
+            "cheater1_username": "https://leetcode.com/u/Jainish47",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343215361",
+            "cheater2_rank": "297",
+            "cheater2_username": "https://leetcode.com/u/pandearindam",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343138449",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "2447",
+            "cheater1_username": "https://leetcode.com/u/Meet_73",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343197491",
+            "cheater2_rank": "297",
+            "cheater2_username": "https://leetcode.com/u/pandearindam",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343138449",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "2475",
+            "cheater1_username": "https://leetcode.com/u/Thinkronized",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343198246",
+            "cheater2_rank": "295",
+            "cheater2_username": "https://leetcode.com/u/vamshi_2525",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343174366",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "2594",
+            "cheater1_username": "https://leetcode.com/u/sourabh782",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343247020",
+            "cheater2_rank": "300",
+            "cheater2_username": "https://leetcode.com/u/yumiysong",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343131744",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "2837",
+            "cheater1_username": "https://leetcode.com/u/aiyo_kingo",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343244486",
+            "cheater2_rank": "303",
+            "cheater2_username": "https://leetcode.com/u/1234ankitgarg",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343248237",
+            "similarity_percentage": "52"
+        },
+        {
+            "cheater1_rank": "2844",
+            "cheater1_username": "https://leetcode.com/u/AijoKaren",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343199400",
+            "cheater2_rank": "295",
+            "cheater2_username": "https://leetcode.com/u/vamshi_2525",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343174366",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "2858",
+            "cheater1_username": "https://leetcode.com/u/Ayush7Singh",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343245695",
+            "cheater2_rank": "295",
+            "cheater2_username": "https://leetcode.com/u/vamshi_2525",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343174366",
+            "similarity_percentage": "57"
+        },
+        {
+            "cheater1_rank": "2869",
+            "cheater1_username": "https://leetcode.com/u/AshokElumalai",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343237009",
+            "cheater2_rank": "629",
+            "cheater2_username": "https://leetcode.com/u/Mahf_",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343135119",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "2921",
+            "cheater1_username": "https://leetcode.com/u/hks6203",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343248199",
+            "cheater2_rank": "295",
+            "cheater2_username": "https://leetcode.com/u/vamshi_2525",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343174366",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "2922",
+            "cheater1_username": "https://leetcode.com/u/vinayak930",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343202744",
+            "cheater2_rank": "297",
+            "cheater2_username": "https://leetcode.com/u/pandearindam",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343138449",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "2946",
+            "cheater1_username": "https://leetcode.com/u/dragon1105",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343249166",
+            "cheater2_rank": "528",
+            "cheater2_username": "https://leetcode.com/u/SaveVMK",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343122565",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "3044",
+            "cheater1_username": "https://leetcode.com/u/trisha_tomy",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343252865",
+            "cheater2_rank": "925",
+            "cheater2_username": "https://leetcode.com/u/arutsudar",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343173084",
+            "similarity_percentage": "52"
+        },
+        {
+            "cheater1_rank": "3063",
+            "cheater1_username": "https://leetcode.com/u/piyush_bansal7",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343243824",
+            "cheater2_rank": "3042",
+            "cheater2_username": "https://leetcode.com/u/vaibhav18-1996",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343252821",
+            "similarity_percentage": "100"
+        },
+        {
+            "cheater1_rank": "3067",
+            "cheater1_username": "https://leetcode.com/u/Nitin-Pilkhwal",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343243982",
+            "cheater2_rank": "639",
+            "cheater2_username": "https://leetcode.com/u/Dolfun",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136331",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "3071",
+            "cheater1_username": "https://leetcode.com/u/nishant_7366",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343235002",
+            "cheater2_rank": "737",
+            "cheater2_username": "https://leetcode.com/u/namanagrawal6517",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343168654",
+            "similarity_percentage": "65"
+        },
+        {
+            "cheater1_rank": "3072",
+            "cheater1_username": "https://leetcode.com/u/fly_leap",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343235099",
+            "cheater2_rank": "349",
+            "cheater2_username": "https://leetcode.com/u/Abeed_shaik",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343250805",
+            "similarity_percentage": "62"
+        },
+        {
+            "cheater1_rank": "3087",
+            "cheater1_username": "https://leetcode.com/u/MaCTaN",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343236154",
+            "cheater2_rank": "351",
+            "cheater2_username": "https://leetcode.com/u/soul-12",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343251172",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3092",
+            "cheater1_username": "https://leetcode.com/u/mkaif2196",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343227702",
+            "cheater2_rank": "683",
+            "cheater2_username": "https://leetcode.com/u/a7174812",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343140941",
+            "similarity_percentage": "72"
+        },
+        {
+            "cheater1_rank": "3099",
+            "cheater1_username": "https://leetcode.com/u/swarajsingh606",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343210009",
+            "cheater2_rank": "681",
+            "cheater2_username": "https://leetcode.com/u/pointbreak96",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151718",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3108",
+            "cheater1_username": "https://leetcode.com/u/rishendra2003",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343201420",
+            "cheater2_rank": "639",
+            "cheater2_username": "https://leetcode.com/u/Dolfun",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136331",
+            "similarity_percentage": "63"
+        },
+        {
+            "cheater1_rank": "3110",
+            "cheater1_username": "https://leetcode.com/u/SkyStalker09",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343210508",
+            "cheater2_rank": "569",
+            "cheater2_username": "https://leetcode.com/u/bigelephant29",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343132972",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "3120",
+            "cheater1_username": "https://leetcode.com/u/Redfly",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343238068",
+            "cheater2_rank": "814",
+            "cheater2_username": "https://leetcode.com/u/prkhr_gupta",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343154132",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3126",
+            "cheater1_username": "https://leetcode.com/u/OuterRidgeSavage",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343247649",
+            "cheater2_rank": "696",
+            "cheater2_username": "https://leetcode.com/u/mintujupally",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343153002",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "3134",
+            "cheater1_username": "https://leetcode.com/u/sahilgupta66",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343239448",
+            "cheater2_rank": "782",
+            "cheater2_username": "https://leetcode.com/u/devansh5398",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343162078",
+            "similarity_percentage": "50"
+        },
+        {
+            "cheater1_rank": "3141",
+            "cheater1_username": "https://leetcode.com/u/manas10",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343249155",
+            "cheater2_rank": "687",
+            "cheater2_username": "https://leetcode.com/u/Lokeshkkatre123",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343162899",
+            "similarity_percentage": "63"
+        },
+        {
+            "cheater1_rank": "3142",
+            "cheater1_username": "https://leetcode.com/u/cyber_knight_28",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343240071",
+            "cheater2_rank": "846",
+            "cheater2_username": "https://leetcode.com/u/mukul_oo7",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343177241",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3158",
+            "cheater1_username": "https://leetcode.com/u/Yash_Gupta2803",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343240917",
+            "cheater2_rank": "897",
+            "cheater2_username": "https://leetcode.com/u/rkkashyap390",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343170939",
+            "similarity_percentage": "68"
+        },
+        {
+            "cheater1_rank": "3162",
+            "cheater1_username": "https://leetcode.com/u/Hugemongo",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343232107",
+            "cheater2_rank": "799",
+            "cheater2_username": "https://leetcode.com/u/BurnerAce",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343163294",
+            "similarity_percentage": "63"
+        },
+        {
+            "cheater1_rank": "3166",
+            "cheater1_username": "https://leetcode.com/u/ketan_prakash",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343232539",
+            "cheater2_rank": "846",
+            "cheater2_username": "https://leetcode.com/u/mukul_oo7",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343177241",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "3167",
+            "cheater1_username": "https://leetcode.com/u/kunalphalswal",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343241807",
+            "cheater2_rank": "864",
+            "cheater2_username": "https://leetcode.com/u/Bit_N_Bytes",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343168883",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "3170",
+            "cheater1_username": "https://leetcode.com/u/Catchet",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343233102",
+            "cheater2_rank": "671",
+            "cheater2_username": "https://leetcode.com/u/vaibhav14112002",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343150817",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3173",
+            "cheater1_username": "https://leetcode.com/u/santoshswansi",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343251901",
+            "cheater2_rank": "814",
+            "cheater2_username": "https://leetcode.com/u/prkhr_gupta",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343154132",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "3178",
+            "cheater1_username": "https://leetcode.com/u/dhruvg04",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343233939",
+            "cheater2_rank": "910",
+            "cheater2_username": "https://leetcode.com/u/r06922157",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343181759",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3188",
+            "cheater1_username": "https://leetcode.com/u/kamlesh012",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343243524",
+            "cheater2_rank": "569",
+            "cheater2_username": "https://leetcode.com/u/bigelephant29",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343132972",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "3194",
+            "cheater1_username": "https://leetcode.com/u/bansalritik108",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343244015",
+            "cheater2_rank": "832",
+            "cheater2_username": "https://leetcode.com/u/pspriyanshu601",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343166377",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3198",
+            "cheater1_username": "https://leetcode.com/u/ShreyParashar",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343226259",
+            "cheater2_rank": "629",
+            "cheater2_username": "https://leetcode.com/u/Mahf_",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343135119",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "3203",
+            "cheater1_username": "https://leetcode.com/u/shubham7065636281",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343244947",
+            "cheater2_rank": "660",
+            "cheater2_username": "https://leetcode.com/u/its_anii",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343160407",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "3223",
+            "cheater1_username": "https://leetcode.com/u/Ajay_Walke",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343228340",
+            "cheater2_rank": "886",
+            "cheater2_username": "https://leetcode.com/u/gupta_shivam234",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343180083",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3229",
+            "cheater1_username": "https://leetcode.com/u/yashjamdade_0804",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343237712",
+            "cheater2_rank": "687",
+            "cheater2_username": "https://leetcode.com/u/Lokeshkkatre123",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343162899",
+            "similarity_percentage": "62"
+        },
+        {
+            "cheater1_rank": "3236",
+            "cheater1_username": "https://leetcode.com/u/JaiSwarup",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343247071",
+            "cheater2_rank": "778",
+            "cheater2_username": "https://leetcode.com/u/Joke_is_God",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151146",
+            "similarity_percentage": "68"
+        },
+        {
+            "cheater1_rank": "3240",
+            "cheater1_username": "https://leetcode.com/u/gopalkhrj",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343183870",
+            "cheater2_rank": "602",
+            "cheater2_username": "https://leetcode.com/u/codemaster24",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343129678",
+            "similarity_percentage": "64"
+        },
+        {
+            "cheater1_rank": "3244",
+            "cheater1_username": "https://leetcode.com/u/rs000",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343248103",
+            "cheater2_rank": "383",
+            "cheater2_username": "https://leetcode.com/u/srihari100499",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343208164",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3248",
+            "cheater1_username": "https://leetcode.com/u/Code_Fire",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343184500",
+            "cheater2_rank": "889",
+            "cheater2_username": "https://leetcode.com/u/jatinnayak",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343170477",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3252",
+            "cheater1_username": "https://leetcode.com/u/mr_detective",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343239673",
+            "cheater2_rank": "616",
+            "cheater2_username": "https://leetcode.com/u/iamrmittal",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343143970",
+            "similarity_percentage": "66"
+        },
+        {
+            "cheater1_rank": "3257",
+            "cheater1_username": "https://leetcode.com/u/randomint32",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343231031",
+            "cheater2_rank": "622",
+            "cheater2_username": "https://leetcode.com/u/Sam1tejch",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343155460",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3262",
+            "cheater1_username": "https://leetcode.com/u/rupakp888",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343249527",
+            "cheater2_rank": "695",
+            "cheater2_username": "https://leetcode.com/u/randomVM",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343163576",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "3263",
+            "cheater1_username": "https://leetcode.com/u/merajunnesha123",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343213224",
+            "cheater2_rank": "694",
+            "cheater2_username": "https://leetcode.com/u/pr1yanshu",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343145398",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "3271",
+            "cheater1_username": "https://leetcode.com/u/Yilliee",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343250465",
+            "cheater2_rank": "846",
+            "cheater2_username": "https://leetcode.com/u/mukul_oo7",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343177241",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3272",
+            "cheater1_username": "https://leetcode.com/u/shivesh_03",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343241380",
+            "cheater2_rank": "894",
+            "cheater2_username": "https://leetcode.com/u/ABHIJEET_1125",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343160539",
+            "similarity_percentage": "52"
+        },
+        {
+            "cheater1_rank": "3298",
+            "cheater1_username": "https://leetcode.com/u/boriswilliams",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343234056",
+            "cheater2_rank": "960",
+            "cheater2_username": "https://leetcode.com/u/cskrisz",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343175445",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "3302",
+            "cheater1_username": "https://leetcode.com/u/SpitfireRF",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343234342",
+            "cheater2_rank": "537",
+            "cheater2_username": "https://leetcode.com/u/rGamer",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136569",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3303",
+            "cheater1_username": "https://leetcode.com/u/Raj_Borad",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343243533",
+            "cheater2_rank": "799",
+            "cheater2_username": "https://leetcode.com/u/BurnerAce",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343163294",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "3307",
+            "cheater1_username": "https://leetcode.com/u/anshu11n",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343234620",
+            "cheater2_rank": "671",
+            "cheater2_username": "https://leetcode.com/u/vaibhav14112002",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343150817",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3316",
+            "cheater1_username": "https://leetcode.com/u/akhil1421",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343235677",
+            "cheater2_rank": "38",
+            "cheater2_username": "https://leetcode.com/u/Sloth_junkie",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343119144",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "3326",
+            "cheater1_username": "https://leetcode.com/u/WARLU",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343245977",
+            "cheater2_rank": "800",
+            "cheater2_username": "https://leetcode.com/u/Sharad2001",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151354",
+            "similarity_percentage": "72"
+        },
+        {
+            "cheater1_rank": "3331",
+            "cheater1_username": "https://leetcode.com/u/analyticalweb1421",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343246609",
+            "cheater2_rank": "383",
+            "cheater2_username": "https://leetcode.com/u/srihari100499",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343208164",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3335",
+            "cheater1_username": "https://leetcode.com/u/__Shubham__Jaiswal__",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343201814",
+            "cheater2_rank": "671",
+            "cheater2_username": "https://leetcode.com/u/vaibhav14112002",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343150817",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "3338",
+            "cheater1_username": "https://leetcode.com/u/eren_yeagerr",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343247564",
+            "cheater2_rank": "959",
+            "cheater2_username": "https://leetcode.com/u/Daredevil141",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343175434",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "3345",
+            "cheater1_username": "https://leetcode.com/u/arun_kaluva_11",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343248707",
+            "cheater2_rank": "962",
+            "cheater2_username": "https://leetcode.com/u/ayushkumarsinha2000",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343175530",
+            "similarity_percentage": "52"
+        },
+        {
+            "cheater1_rank": "3348",
+            "cheater1_username": "https://leetcode.com/u/shreyashiiti",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343230827",
+            "cheater2_rank": "605",
+            "cheater2_username": "https://leetcode.com/u/cogentcoder73",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343132297",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3353",
+            "cheater1_username": "https://leetcode.com/u/coder_amitk0091",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343221747",
+            "cheater2_rank": "377",
+            "cheater2_username": "https://leetcode.com/u/adithya_1024",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343244690",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3354",
+            "cheater1_username": "https://leetcode.com/u/aryamann12",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343250061",
+            "cheater2_rank": "828",
+            "cheater2_username": "https://leetcode.com/u/Kushal_Gupta1",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343166086",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "3356",
+            "cheater1_username": "https://leetcode.com/u/ihang",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343241148",
+            "cheater2_rank": "838",
+            "cheater2_username": "https://leetcode.com/u/YEH_CHIA_KAI",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343166846",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3360",
+            "cheater1_username": "https://leetcode.com/u/hoanghonghieu",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343251559",
+            "cheater2_rank": "544",
+            "cheater2_username": "https://leetcode.com/u/diffusethinking",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343138233",
+            "similarity_percentage": "69"
+        },
+        {
+            "cheater1_rank": "3365",
+            "cheater1_username": "https://leetcode.com/u/GODPRANAMIT",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343224513",
+            "cheater2_rank": "377",
+            "cheater2_username": "https://leetcode.com/u/adithya_1024",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343244690",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3387",
+            "cheater1_username": "https://leetcode.com/u/unknown_fella",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343220661",
+            "cheater2_rank": "920",
+            "cheater2_username": "https://leetcode.com/u/Dhruv_dg",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343182517",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3392",
+            "cheater1_username": "https://leetcode.com/u/ashishg256",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343240757",
+            "cheater2_rank": "807",
+            "cheater2_username": "https://leetcode.com/u/deepak_0081",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343153817",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3394",
+            "cheater1_username": "https://leetcode.com/u/latj",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343240857",
+            "cheater2_rank": "711",
+            "cheater2_username": "https://leetcode.com/u/simpsimp",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343154689",
+            "similarity_percentage": "65"
+        },
+        {
+            "cheater1_rank": "3398",
+            "cheater1_username": "https://leetcode.com/u/kkpp",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343242209",
+            "cheater2_rank": "711",
+            "cheater2_username": "https://leetcode.com/u/simpsimp",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343154689",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3406",
+            "cheater1_username": "https://leetcode.com/u/Kalki_2898",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343236197",
+            "cheater2_rank": "752",
+            "cheater2_username": "https://leetcode.com/u/tupdaily",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343159229",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3431",
+            "cheater1_username": "https://leetcode.com/u/byte001",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343251177",
+            "cheater2_rank": "531",
+            "cheater2_username": "https://leetcode.com/u/realstar",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343134957",
+            "similarity_percentage": "59"
+        },
+        {
+            "cheater1_rank": "3432",
+            "cheater1_username": "https://leetcode.com/u/Kd_003",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343241972",
+            "cheater2_rank": "803",
+            "cheater2_username": "https://leetcode.com/u/videhag",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343173985",
+            "similarity_percentage": "51"
+        },
+        {
+            "cheater1_rank": "3442",
+            "cheater1_username": "https://leetcode.com/u/srinathb99",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343237442",
+            "cheater2_rank": "383",
+            "cheater2_username": "https://leetcode.com/u/srihari100499",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343208164",
+            "similarity_percentage": "61"
+        },
+        {
+            "cheater1_rank": "3444",
+            "cheater1_username": "https://leetcode.com/u/Shriyansh__20",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343246821",
+            "cheater2_rank": "660",
+            "cheater2_username": "https://leetcode.com/u/its_anii",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343160407",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "3451",
+            "cheater1_username": "https://leetcode.com/u/aspirers02",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343250522",
+            "cheater2_rank": "909",
+            "cheater2_username": "https://leetcode.com/u/Qawsede",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343172051",
+            "similarity_percentage": "60"
+        },
+        {
+            "cheater1_rank": "3452",
+            "cheater1_username": "https://leetcode.com/u/22bce067",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343241626",
+            "cheater2_rank": "864",
+            "cheater2_username": "https://leetcode.com/u/Bit_N_Bytes",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343168883",
+            "similarity_percentage": "68"
+        },
+        {
+            "cheater1_rank": "3456",
+            "cheater1_username": "https://leetcode.com/u/jigyashugupta",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343214960",
+            "cheater2_rank": "590",
+            "cheater2_username": "https://leetcode.com/u/Pranav_Sharda",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343148184",
+            "similarity_percentage": "62"
+        },
+        {
+            "cheater1_rank": "3457",
+            "cheater1_username": "https://leetcode.com/u/rohit0607",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343249022",
+            "cheater2_rank": "692",
+            "cheater2_username": "https://leetcode.com/u/fahadm20",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343163247",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "3458",
+            "cheater1_username": "https://leetcode.com/u/akash_56",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343249402",
+            "cheater2_rank": "794",
+            "cheater2_username": "https://leetcode.com/u/RamaVardhan",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343162934",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "3467",
+            "cheater1_username": "https://leetcode.com/u/mentall",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343247763",
+            "cheater2_rank": "803",
+            "cheater2_username": "https://leetcode.com/u/videhag",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343173985",
+            "similarity_percentage": "54"
+        },
+        {
+            "cheater1_rank": "3480",
+            "cheater1_username": "https://leetcode.com/u/Sanskar0705",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343234005",
+            "cheater2_rank": "711",
+            "cheater2_username": "https://leetcode.com/u/simpsimp",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343154689",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "3497",
+            "cheater1_username": "https://leetcode.com/u/kush_s",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343146017",
+            "cheater2_rank": "800",
+            "cheater2_username": "https://leetcode.com/u/Sharad2001",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343151354",
+            "similarity_percentage": "68"
+        },
+        {
+            "cheater1_rank": "3505",
+            "cheater1_username": "https://leetcode.com/u/MrAlastr",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343237285",
+            "cheater2_rank": "986",
+            "cheater2_username": "https://leetcode.com/u/anhlinh123",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343167331",
+            "similarity_percentage": "56"
+        },
+        {
+            "cheater1_rank": "3508",
+            "cheater1_username": "https://leetcode.com/u/Sh3lan",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343242542",
+            "cheater2_rank": "665",
+            "cheater2_username": "https://leetcode.com/u/cid_kageno",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343150365",
+            "similarity_percentage": "69"
+        },
+        {
+            "cheater1_rank": "3520",
+            "cheater1_username": "https://leetcode.com/u/fjaksfjklds",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343252473",
+            "cheater2_rank": "535",
+            "cheater2_username": "https://leetcode.com/u/abhinavawasthi",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-136/submissions/detail/1343136040",
+            "similarity_percentage": "55"
+        }
+    ]
+}
