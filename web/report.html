@@ -21,7 +21,7 @@
   </div>
 
   <div class="container box-look">
-    <a class="centered" onclick="location.reload()" style="color: black;">
+    <a class="centered" onclick="location.replace('https://himanshumahajan138.github.io/lc/web')" style="color: black;">
       <h1 class="centered">🤞Plag<span class="emphasis">X🤞</span></h1>
   </a><br>
   <a class="centered" onclick="location.reload()" style="color: black;">
@@ -45,7 +45,7 @@
 
     <div class="note-point">
       <b>●</b> You can set the <span class="emphasis">threshold value</span> according to your preference, with the
-      <span class="default">default value</span> being <b>80</b>.
+      <span class="default">default value</span> being <b>70</b>.
     </div>
 
     <div class="note-point">
@@ -57,7 +57,7 @@
       <div class="gridjs-search table-search" style="float: left;">
         <label for="threshold" id="threshold-label">Similarity Threshold (%):</label>
         <input class="gridjs-input gridjs-search-input" id="threshold" type="number" name="threshold" min="50" max="100"
-          value="80" style="width: 17%;">
+          value="70" style="width: 17%;">
         <button type="button" class="gridjs-button" onClick="filterThreshold()">Apply Threshold</button>
       </div>
       <div class="gridjs-search table-search">
@@ -99,7 +99,7 @@
 
   <script>
     var griddata;
-    const defaultThreshold = 80; // Default threshold value
+    const defaultThreshold = 70; // Default threshold value
 
     function getQueryParameter(name) {
       const urlParams = new URLSearchParams(window.location.search);
