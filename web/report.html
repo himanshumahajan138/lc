@@ -211,7 +211,6 @@
 
       if (!searchValue) {
         grid.updateConfig({ data: griddata.data }).forceRender();
-        filterThreshold();
         return;
       }
 
@@ -220,7 +219,6 @@
         return values.some(value => value.includes(searchValue));
       });
       grid.updateConfig({ data: filteredData }).forceRender();
-      filterThreshold();
     }
 
     function sortDataBySimilarityPercentage(data) {
