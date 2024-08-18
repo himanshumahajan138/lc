@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "cheater1_rank": "252",
+            "cheater1_username": "https://leetcode.com/u/jainshubh_1",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-137/submissions/detail/1359165063",
+            "cheater2_rank": "36",
+            "cheater2_username": "https://leetcode.com/u/scotchtape",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-137/submissions/detail/1359059878",
+            "similarity_percentage": "55"
+        },
+        {
+            "cheater1_rank": "355",
+            "cheater1_username": "https://leetcode.com/u/mradulag20",
+            "cheater1_submission_id": "https://leetcode.com/contest/Biweekly-Contest-137/submissions/detail/1359208489",
+            "cheater2_rank": "57",
+            "cheater2_username": "https://leetcode.com/u/scanhex",
+            "cheater2_submission_id": "https://leetcode.com/contest/Biweekly-Contest-137/submissions/detail/1359050519",
+            "similarity_percentage": "56"
+        }
+    ]
+}
