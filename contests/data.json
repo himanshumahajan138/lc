@@ -41,6 +41,12 @@
             "contest_date": "August 11, 2024, 08:00 AM",
             "question_3": "plag_report/W410/Q3_Final_Result.json",
             "question_4": "plag_report/W410/Q4_Final_Result.json"
+        },
+        {
+            "contest_name": "https://leetcode.com/contest/Weekly-Contest-412",
+            "contest_date": "August 25, 2024, 08:00 AM",
+            "question_3": "plag_report/W412/Q3_Final_Result.json",
+            "question_4": "plag_report/W412/Q4_Final_Result.json"
         }
     ]
 }
