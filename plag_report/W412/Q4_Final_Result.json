@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "cheater1_rank": "454",
+            "cheater1_username": "https://leetcode.com/u/LemonDrop47",
+            "cheater1_submission_id": "https://leetcode.com/contest/Weekly-Contest-412/submissions/detail/1367370809",
+            "cheater2_rank": "92",
+            "cheater2_username": "https://leetcode.com/u/xyzabcdef",
+            "cheater2_submission_id": "https://leetcode.com/contest/Weekly-Contest-412/submissions/detail/1367317290",
+            "similarity_percentage": "57"
+        },
+        {
+            "cheater1_rank": "498",
+            "cheater1_username": "https://leetcode.com/u/alchyuan",
+            "cheater1_submission_id": "https://leetcode.com/contest/Weekly-Contest-412/submissions/detail/1367382095",
+            "cheater2_rank": "89",
+            "cheater2_username": "https://leetcode.com/u/satyamshrma",
+            "cheater2_submission_id": "https://leetcode.com/contest/Weekly-Contest-412/submissions/detail/1367389173",
+            "similarity_percentage": "53"
+        },
+        {
+            "cheater1_rank": "904",
+            "cheater1_username": "https://leetcode.com/u/rupa6",
+            "cheater1_submission_id": "https://leetcode.com/contest/Weekly-Contest-412/submissions/detail/1367302165",
+            "cheater2_rank": "92",
+            "cheater2_username": "https://leetcode.com/u/xyzabcdef",
+            "cheater2_submission_id": "https://leetcode.com/contest/Weekly-Contest-412/submissions/detail/1367317290",
+            "similarity_percentage": "68"
+        }
+    ]
+}
