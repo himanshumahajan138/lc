@@ -47,6 +47,12 @@
             "contest_date": "August 25, 2024, 08:00 AM",
             "question_3": "plag_report/W412/Q3_Final_Result.json",
             "question_4": "plag_report/W412/Q4_Final_Result.json"
+        },
+        {
+            "contest_name": "https://leetcode.com/contest/Biweekly-Contest-138",
+            "contest_date": "August 31, 2024, 08:00 PM",
+            "question_3": "plag_report/BW138/Q3_Final_Result.json",
+            "question_4": "plag_report/BW138/Q4_Final_Result.json"
         }
     ]
 }
